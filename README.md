@@ -1,2 +1,20 @@
-# Algorithms
-Learn DS&amp;A through leetcode problems
+# Introduction to Data Structures & Algorithms with Leetcode
+
+Welcome to Bee's guide to datastructures and algorithms! This is based on \[[https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)\]\([https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)\). 
+
+This is a course on datastructures and algorithms based around leetcode problems. Learn DS&A via problems, with lengthy explanations. 
+
+This guide is ordered by how likely it is for that datastructure / algorithm to show up in an interview **and** how vital that knowledge is to understanding other data structures / algorithms.
+
+Each section will lead with a leetcode style problem, and end with problems you can do on your own. This way, you only ever learn what is relevant. 
+
+All code will be in Python due to how easy it is to read. If you want to contribute more code, feel free to. This is on GitHub after all!
+
+## Resources
+
+* Free books etc
+
+
+
+
+
