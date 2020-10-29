@@ -4,6 +4,10 @@
 [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)
 {% endhint %}
 
+
+
+{% tabs %}
+{% tab title="Question" %}
 In this question we are asked:
 
 > Given a binary array, find the maximum number of consecutive 1s in this array.
@@ -12,10 +16,6 @@ In this question we are asked:
 Input: [1,1,0,1,1,1]
 Output: 3
 ```
-
-{% tabs %}
-{% tab title="Question" %}
-Click on Answer to learn how to do this. Try it yourself first!
 {% endtab %}
 
 {% tab title="Answer" %}
@@ -42,4 +42,6 @@ class Solution(object):
 ```
 {% endtab %}
 {% endtabs %}
+
+Click "Answer" tab to see the answer. Try to do it yourself first!
 
