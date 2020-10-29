@@ -115,26 +115,25 @@ This code is from [here](https://leetcode.com/problems/squares-of-a-sorted-array
 ## Solution 3 - Python with Pointers
 
 ```python
-class Solution:
-    def sortedSquares(self, A: List[int]) -> List[int]:
-        return_array = [0] * len(A)
-        write_pointer = len(A) - 1
-        left_read_pointer = 0
-        right_read_pointer = len(A) - 1
-        left_square = A[left_read_pointer] ** 2
-        right_square = A[right_read_pointer] ** 2
-        while write_pointer >= 0:
-            if left_square > right_square:
-                return_array[write_pointer] = left_square
-                left_read_pointer += 1
-                left_square = A[left_read_pointer] ** 2
-            else:
-                return_array[write_pointer] = right_square
-                right_read_pointer -= 1
-                right_square = A[right_read_pointer] ** 2
-            write_pointer -= 1
-        return return_array
+def sortedSquares(self, A):
+    answer = collections.deque()
+    l, r = 0, len(A) - 1
+    while l <= r:
+        left, right = abs(A[l]), abs(A[r])
+        if left > right:
+            answer.appendleft(left * left)
+            l += 1
+        else:
+            answer.appendleft(right * right)
+            r -= 1
+    return list(answer)
 ```
+
+From [here](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/222079/Python-O%28N%29-10-lines-two-solutions-explained-beats-100). 
+
+Author explains:
+
+> The question boils down to understanding that if we look at the magnitude of the elements in the array, `A`, both ends "slide down" and converge towards the center of the array. With that understanding, we can use two pointers, one at each end, to iteratively collect the larger square to a list. However, collecting the larger square in a list with `list`'s `append`, results in elements sorted in descending order. To circumvent this, we need to append to the left of the list. Using a `collections.deque()` allows us to append elements to the left of `answer` in O\(1\) time, maintaining the required increasing order.
 {% endtab %}
 {% endtabs %}
 
