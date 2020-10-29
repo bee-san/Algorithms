@@ -9,3 +9,11 @@
   * [Find Numbers with Even Number of Digits](strings/strings-1/find-numbers-with-even-number-of-digits.md)
   * [Squares of a Sorted Array](strings/strings-1/squares-of-a-sorted-array.md)
 
+## Trees
+
+* [Untitled](trees/untitled.md)
+
+## Dynamic Programming
+
+* [Untitled](dynamic-programming/untitled.md)
+
