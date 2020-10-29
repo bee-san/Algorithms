@@ -14,7 +14,16 @@ If you're okay with Python, but want to learn the advanced stuff check out my ot
 
 ## Resources
 
-* Free books etc
+You should roughly know these things. I have linked to some of my own resources for you to learn them:
+
+* [Python](https://github.com/bee-san/Python-Zero-to-Hero) \(Not an expert, you can use other languages or contribute more languages\)
+* [Big O notation](https://skerritt.blog/big-o/) \(not an expert, just the basics\)
+
+For other resources you should see:  
+
+
+* CTCI
+* MIT 6.006
 
 
 

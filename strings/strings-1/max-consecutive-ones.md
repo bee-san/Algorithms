@@ -40,6 +40,10 @@ class Solution(object):
                 cnt = 0
         return ans
 ```
+
+This algorithm is O\(n\) time. As it touches every item in the array exactly once, and the array can be of size N.
+
+The space complexity is O\(n\) space.
 {% endtab %}
 {% endtabs %}
 

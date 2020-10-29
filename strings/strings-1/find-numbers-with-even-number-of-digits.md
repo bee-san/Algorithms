@@ -58,6 +58,10 @@ For every number,
 def findNumbers(self, nums: List[int]) -> int:
     return sum(len(str(n)) % 2 == 0 for n in nums) 
 ```
+
+This code is O\(n\) time complexity, as it touches every list item exactly once.
+
+The space complexity is O\(n\), but note that because we are creating a tuple / generator of True values our space complexity will be slightly higher than n, but under Big O notational rules it is still O\(n\).
 {% endtab %}
 {% endtabs %}
 
