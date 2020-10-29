@@ -8,6 +8,7 @@
   * [Max Consecutive Ones](strings/strings-1/max-consecutive-ones.md)
   * [Find Numbers with Even Number of Digits](strings/strings-1/find-numbers-with-even-number-of-digits.md)
   * [Squares of a Sorted Array](strings/strings-1/squares-of-a-sorted-array.md)
+  * [Unique Elements](strings/strings-1/unique-elements.md)
 
 ## Trees
 
