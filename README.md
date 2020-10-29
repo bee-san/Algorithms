@@ -1,6 +1,6 @@
 # Introduction to Data Structures & Algorithms with Leetcode
 
-Welcome to Bee's guide to datastructures and algorithms! This is based on \[[https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)\]\([https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)\). 
+Welcome to Bee's guide to datastructures and algorithms! This is based on [https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 
 This is a course on datastructures and algorithms based around leetcode problems. Learn DS&A via problems, with lengthy explanations. 
 
@@ -9,6 +9,8 @@ This guide is ordered by how likely it is for that datastructure / algorithm to 
 Each section will lead with a leetcode style problem, and end with problems you can do on your own. This way, you only ever learn what is relevant. 
 
 All code will be in Python due to how easy it is to read. If you want to contribute more code, feel free to. This is on GitHub after all!
+
+If you're okay with Python, but want to learn the advanced stuff check out my other book [https://github.com/bee-san/Python-Zero-to-Hero](https://github.com/bee-san/Python-Zero-to-Hero)
 
 ## Resources
 

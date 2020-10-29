@@ -4,5 +4,6 @@
 
 ## Strings
 
-* [Strings](strings/strings-1.md)
+* [Strings & Arrays](strings/strings-1/README.md)
+  * [Max Consecutive Ones](strings/strings-1/max-consecutive-ones.md)
 
