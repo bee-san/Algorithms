@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction to Data Structures & Algorithms with Leetcode](README.md)
 
 ## Strings
 
-* [Untitled](strings/untitled.md)
-* [Untitled](strings/untitled-1.md)
+* [Strings](strings/strings-1.md)
 
