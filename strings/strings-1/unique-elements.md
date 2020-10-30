@@ -37,6 +37,14 @@ def is_unique(text):
 
     return True
 ```
+
+Assuming the input is Ascii only \(ask your interviewer\) we create a bitmap of \[False\] \* 128 \(128 is the length of Ascii\).
+
+We then go through the text one char at a time, and for every char we set it to True.
+
+If we see a char that is already set to True, we return False as that char has appeared twice.
+
+This algorithm is O\(n\) time and O\(n\) space complexity.
 {% endtab %}
 {% endtabs %}
 
