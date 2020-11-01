@@ -49,7 +49,7 @@ We first check to see if our current amount - the denomination we are checking i
 If it's not, the change is either:
 
 * The current amount \(which in first loop is infinite, but in future loops will be different\)
-* The current amount take away the denomination + 1.
+* The current amount take away the denomination + 1. The fewest amount to make y coins, with whatever coin we just took. **We want to figure out whatever the best amount it is to make that amount in our dp array. `y - coin` is the best amount to make that amount.** The 1 is because we add one single coin.
 
 If our last value \(the target amount\) is infinite, we return -1 \(as we couldn't change for that amount optimally\). Else we return the last value.
 
