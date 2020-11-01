@@ -51,7 +51,11 @@ If it's not, the change is either:
 * The current amount \(which in first loop is infinite, but in future loops will be different\)
 * The current amount take away the denomination + 1. The fewest amount to make y coins, with whatever coin we just took. **We want to figure out whatever the best amount it is to make that amount in our dp array. `y - coin` is the best amount to make that amount.** The 1 is because we add one single coin.
 
-If our last value \(the target amount\) is infinite, we return -1 \(as we couldn't change for that amount optimally\). Else we return the last value.
+If our last value \(the target amount\) is infinite, we return -1 \(as we couldn't change for that amount optimally\). Else we return the last value.  
+  
+Our runtime is O\(nm\) where n is our amount and m is the coins we are given. Space O\(n\) where n is how big our amount is.  
+**Small optimisation**  
+We can sort the array, and if our current coin is larger than the amount we break and return as there's no point in going through bigger and bigger coins.
 
 {% embed url="https://www.youtube.com/watch?v=1R0\_7HqNaW0" %}
 {% endtab %}
