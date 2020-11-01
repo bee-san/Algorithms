@@ -2,6 +2,8 @@
 
 Note: I have written extensively about Dynamic Programming, and even a book on it! This section will feature that, and more. 
 
+{% file src="../.gitbook/assets/algorithm\_design.pdf" %}
+
 {% embed url="https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns" %}
 
 

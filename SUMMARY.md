@@ -20,4 +20,5 @@
 * [Introduction](dynamic-programming/untitled.md)
 * [Minimum \(Maximum\) Path to Reach a Target](dynamic-programming/minimum-maximum-path-to-reach-a-target/README.md)
   * [Min Cost Climbing Stairs](dynamic-programming/minimum-maximum-path-to-reach-a-target/min-cost-climbing-stairs.md)
+  * [Coin Change](dynamic-programming/minimum-maximum-path-to-reach-a-target/coin-change.md)
 
