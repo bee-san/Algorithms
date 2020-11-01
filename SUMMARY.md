@@ -22,3 +22,7 @@
   * [Min Cost Climbing Stairs](dynamic-programming/minimum-maximum-path-to-reach-a-target/min-cost-climbing-stairs.md)
   * [Coin Change](dynamic-programming/minimum-maximum-path-to-reach-a-target/coin-change.md)
 
+---
+
+* [Minimum Path Sum](minimum-path-sum.md)
+
