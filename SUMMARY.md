@@ -30,3 +30,7 @@
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
 
+---
+
+* [Practice](practice.md)
+
