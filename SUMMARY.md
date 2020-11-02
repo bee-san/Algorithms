@@ -21,8 +21,11 @@
 * [Minimum \(Maximum\) Path to Reach a Target](dynamic-programming/minimum-maximum-path-to-reach-a-target/README.md)
   * [Min Cost Climbing Stairs](dynamic-programming/minimum-maximum-path-to-reach-a-target/min-cost-climbing-stairs.md)
   * [Coin Change](dynamic-programming/minimum-maximum-path-to-reach-a-target/coin-change.md)
+  * [Minimum Path Sum](dynamic-programming/minimum-maximum-path-to-reach-a-target/minimum-path-sum.md)
 
 ---
 
-* [Minimum Path Sum](minimum-path-sum.md)
+* [Minimum Falling Path Sum](minimum-falling-path-sum.md)
+* [Minimum Cost For Tickets](minimum-cost-for-tickets.md)
+* [Triangle](triangle.md)
 
