@@ -24,8 +24,9 @@
   * [Minimum Path Sum](dynamic-programming/minimum-maximum-path-to-reach-a-target/minimum-path-sum.md)
   * [Triangle](dynamic-programming/minimum-maximum-path-to-reach-a-target/triangle.md)
 
----
+## Not Done Yet
 
-* [Minimum Falling Path Sum](minimum-falling-path-sum.md)
-* [Minimum Cost For Tickets](minimum-cost-for-tickets.md)
+* [Uncompleted](not-done-yet/uncompleted.md)
+* [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
+* [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
 
