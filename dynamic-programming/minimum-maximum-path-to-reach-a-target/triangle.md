@@ -42,7 +42,7 @@ Now we want to generate our table:
 
 `memo` is our table for memoisation, and n is the length of the triangle.
 
-![](.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 Since we're working from the bottom-up, let's start there. Our base case is:
 
