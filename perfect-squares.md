@@ -17,31 +17,45 @@ Explanation: 12 = 4 + 4 + 4.
   
 {% endtab %}
 
+{% tab title="Hint" %}
+We've seen accessing the last element, or the second to last element in our DP array to perform the recursive step.
+
+What if we wanted to access an element based on a mathematical calculation?
+{% endtab %}
+
 {% tab title="Answer" %}
-```python
-class Solution:
-    def numSquares(self, n: int) -> int:
-        
-```
+Our base case is that 0 == 0:
 
-The problem starts off with basecases. 
+* dp\[0\] = 0
 
-* When n is 0, we should return 0.
+Now, how do we calculate the recurrence?
 
-We should then build an array up to n log\(n\). This is because any number past log\(n\) cannot be a perfect divisor of `n`.
+Firstly, we need to calculate all possible square numbers up to `j`. j is not our current index, since any number past half of our index squared will be over it. For example, take 4. Half of 4 is 2. Any number over 2 squared \(such as 3^2\) will not be equal to 4.
 
-In this array we calculate every possible value up to the target. The minimum for `n` is either:
+We can use a mathematical calculation for this:
 
-* the minimum for the number before, i\[j\].
+$$
+j = int(i**0.5) + 1
+$$
+
+To the power of 0.5 is the same as square rooting.
+
+We add 1 to deal with indices and getting the right candidate. If the answer for 4 is 2^2, the answer for 5 will not also be 2^2. So we add one.
+
+There are multiple squares that add up to the index, so we need to select the minimum out of this list. 
+
+The dynamic programming comes into play because we do not need to recalculate square numbers. If our number is 4, and our `j` value is 2 we can use the minimum for `2.`
+
+`Finally, we add` +`1 to our solution for the` min
 {% endtab %}
 {% endtabs %}
 
-```text
-def numSquares(n):
-	dp = [0] + [float('inf')]*n
-	for i in range(1, n+1):
-		for j in range(1, int(i**0.5) + 1):
-			dp[i] = min(dp[i-j*j]) + 1
-	return dp[n]
+```python
+class Solution:
+    def numSquares(self, n: int) -> int:
+        dp = [0] + [float("inf")] * n
+        for i in range(1, n+1):
+            dp[i] = min(dp[i-j*j] for j in range(1, int(i**0.5) + 1)) + 1
+        return dp[n]
 ```
 
