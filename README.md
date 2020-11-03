@@ -4,6 +4,13 @@
 
 Welcome to Bee's guide to datastructures and algorithms! This is based on [https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 
+**What you need to know**
+
+* Learn data structures & algorithms \(DS&A\) using leetcode
+* Only learn DS&A that is used in real world
+* Learn _why_ it works, not just how.
+* Sorted by how likely it is to show up in an interview **and** how vital that knowledge is to understanding other DS&A.
+
 This is a course on datastructures and algorithms based around leetcode problems. Learn DS&A via problems, with lengthy explanations. 
 
 This guide is ordered by how likely it is for that datastructure / algorithm to show up in an interview **and** how vital that knowledge is to understanding other data structures / algorithms.
