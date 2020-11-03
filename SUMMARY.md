@@ -25,6 +25,7 @@
   * [Triangle](dynamic-programming/minimum-maximum-path-to-reach-a-target/triangle.md)
   * [Consecutive Characters](dynamic-programming/minimum-maximum-path-to-reach-a-target/consecutive-characters.md)
   * [Perfect Squares](dynamic-programming/minimum-maximum-path-to-reach-a-target/perfect-squares.md)
+* [Distinct Ways](dynamic-programming/distinct-ways.md)
 
 ## Not Done Yet
 
@@ -35,4 +36,5 @@
 ---
 
 * [Practice](practice.md)
+* [Climbing Stairs](climbing-stairs.md)
 
