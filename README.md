@@ -40,6 +40,15 @@ For other resources you should see:
 * Explain things more easily
 * Look through my Not Done Yet section and complete / improve them!
 
+## Why Leetcode and not X, Y, Z platform?
+
+1. Everyone knows Leetcode
+2. Leetcode discussion board is popping, and there's many Youtube videos about each platform
+3. AlgoExpert is not paying me to tell you that the scariest thing in the world is not knowing how to invert a binary tree in a coding interview _yet_.
+4. HackerRank's problems are too wordy for me to copy & paste.
+5. Companies use Leetcode
+6. Honestly if any other coding company came along and paid me to advertise their product I would it's just I used Leetcode. **Deciding on what the best platform to use is another form of procrastination.** I just picked the first one I saw and went with it.
+
 
 
 
