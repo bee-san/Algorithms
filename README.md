@@ -27,6 +27,11 @@ For other resources you should see:
 * CTCI
 * MIT 6.006
 
+## How to contribute
+
+* Explain things more easily
+* Look through my Not Done Yet section and complete / improve them!
+
 
 
 

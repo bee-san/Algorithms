@@ -33,4 +33,5 @@
 ---
 
 * [Practice](practice.md)
+* [Perfect Squares](perfect-squares.md)
 
