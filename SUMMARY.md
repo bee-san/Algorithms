@@ -23,6 +23,7 @@
   * [Coin Change](dynamic-programming/minimum-maximum-path-to-reach-a-target/coin-change.md)
   * [Minimum Path Sum](dynamic-programming/minimum-maximum-path-to-reach-a-target/minimum-path-sum.md)
   * [Triangle](dynamic-programming/minimum-maximum-path-to-reach-a-target/triangle.md)
+  * [Perfect Squares](dynamic-programming/minimum-maximum-path-to-reach-a-target/perfect-squares.md)
 
 ## Not Done Yet
 
@@ -33,5 +34,4 @@
 ---
 
 * [Practice](practice.md)
-* [Perfect Squares](perfect-squares.md)
 
