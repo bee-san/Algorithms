@@ -45,8 +45,19 @@ We add 1 to deal with indices and getting the right candidate. If the answer for
 There are multiple squares that add up to the index, so we need to select the minimum out of this list. 
 
 The dynamic programming comes into play because we do not need to recalculate square numbers. If our number is 4, and our `j` value is 2 we can use the minimum for `2.`
-{% endtab %}
-{% endtabs %}
+
+Finally, we add +1 to our solution as the candidate solution.
+
+## Example
+
+| Input | dp\[i\] | Result |
+| :--- | :--- | :--- |
+| 1 | \[0, 1\] | 1 |
+| 2 | \[0, 1, 2\] | 2 |
+| 3 | \[0, 1, 2, 3\] | 3 |
+| 4 | \[0, 1, 2, 3, 1\] | 1 |
+
+And now the code:
 
 ```python
 class Solution:
@@ -56,4 +67,12 @@ class Solution:
             dp[i] = min(dp[i-j*j] for j in range(1, int(i**0.5) + 1)) + 1
         return dp[n]
 ```
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
 
