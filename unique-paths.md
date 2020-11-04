@@ -77,6 +77,34 @@ So the sum is:
 $$
 new\_coords = [i - 1][j] + [i][j - 1]
 $$
+
+## Coding it
+
+Let's start out by generating our DP array.
+
+```python
+dp = [[1 for _ in range(n)] for _ in range(m)]
+```
+
+Remember how our previous DP problems required us to build the table array first? This is us building an n x m table!  
+  
+We fill the top row and left row with 1, as we cannot traverse them as we're only allowed to go down or right.  
+  
+Since we filled the top and left rows, we do not need to include them so we can start at \(1, 1\).
+
+This makes our code look like this:
+
+```python
+class Solution:
+    def uniquePaths(self, m: int, n: int) -> int:
+        dp = [[1 for _ in range(n)] for _ in range(m)]
+        for i in range(1, m):
+            for j in range(1, n):
+                dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
+        return dp[-1][-1]
+```
 {% endtab %}
 {% endtabs %}
+
+
 
