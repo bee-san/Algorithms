@@ -39,3 +39,9 @@
 * [Practice](practice.md)
 * [Unique Paths](unique-paths.md)
 
+## Graphs
+
+* [Untitled](graphs/untitled.md)
+* [Trees](graphs/trees-1/README.md)
+  * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
+
