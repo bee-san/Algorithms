@@ -12,7 +12,7 @@ The robot can only move either down or right at any point in time. The robot is 
 
 How many possible unique paths are there?
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 
 
@@ -62,11 +62,11 @@ Therefore our algorithm looks like:
 
 Let's visualise this.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 We have a 4x4 grid with coordinates. Let's look at \(1, 1\)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 The sum for \(1, 1\) is the sum for \(1, 0\) added to the sum for \(0, 1\).
 

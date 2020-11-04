@@ -27,11 +27,11 @@
   * [Perfect Squares](dynamic-programming/minimum-maximum-path-to-reach-a-target/perfect-squares.md)
 * [Distinct Ways](dynamic-programming/distinct-ways/README.md)
   * [Climbing Stairs](dynamic-programming/distinct-ways/climbing-stairs.md)
+  * [Unique Paths](dynamic-programming/distinct-ways/unique-paths.md)
 
 ---
 
 * [Practice](practice.md)
-* [Unique Paths](unique-paths.md)
 
 ## Not Done Yet
 
