@@ -28,16 +28,16 @@
 * [Distinct Ways](dynamic-programming/distinct-ways/README.md)
   * [Climbing Stairs](dynamic-programming/distinct-ways/climbing-stairs.md)
 
+---
+
+* [Practice](practice.md)
+* [Unique Paths](unique-paths.md)
+
 ## Not Done Yet
 
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
-
----
-
-* [Practice](practice.md)
-* [Unique Paths](unique-paths.md)
 
 ## Graphs
 
