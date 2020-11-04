@@ -37,4 +37,5 @@
 ---
 
 * [Practice](practice.md)
+* [Unique Paths](unique-paths.md)
 

@@ -10,6 +10,7 @@ Welcome to Bee's guide to datastructures and algorithms! This is based on [https
 * Only learn DS&A that is used in real world
 * Learn _why_ it works, not just how.
 * Sorted by how likely it is to show up in an interview **and** how vital that knowledge is to understanding other DS&A.
+* The problems are mostly medium - hards, I try to not include easy problems unless they are the first problem in a category.
 
 This is a course on datastructures and algorithms based around leetcode problems. Learn DS&A via problems, with lengthy explanations. 
 
