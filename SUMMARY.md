@@ -32,7 +32,8 @@
   * [Number of Dice Rolls with Target Sum](dynamic-programming/distinct-ways/number-of-dice-rolls-with-target-sum.md)
 * [Merging Intervals](dynamic-programming/merging-intervals-1/README.md)
   * [Minimum Cost Tree From Leaf Values](dynamic-programming/merging-intervals-1/minimum-cost-tree-from-leaf-values.md)
-* [DP on Strings](dynamic-programming/dp-on-strings.md)
+* [DP on Strings](dynamic-programming/dp-on-strings/README.md)
+  * [Longest Common Subsequence](dynamic-programming/dp-on-strings/longest-common-subsequence.md)
 
 ---
 
@@ -48,8 +49,4 @@
 
 * [Trees](graphs/trees-1/README.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
-
----
-
-* [Longest Common Subsequence](longest-common-subsequence.md)
 
