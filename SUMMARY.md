@@ -23,6 +23,7 @@
   * [Coin Change](dynamic-programming/minimum-maximum-path-to-reach-a-target/coin-change.md)
   * [Minimum Path Sum](dynamic-programming/minimum-maximum-path-to-reach-a-target/minimum-path-sum.md)
   * [Triangle](dynamic-programming/minimum-maximum-path-to-reach-a-target/triangle.md)
+  * [Minimum Cost to Move Chips to The Same Position](dynamic-programming/minimum-maximum-path-to-reach-a-target/minimum-cost-to-move-chips-to-the-same-position.md)
   * [Consecutive Characters](dynamic-programming/minimum-maximum-path-to-reach-a-target/consecutive-characters.md)
   * [Perfect Squares](dynamic-programming/minimum-maximum-path-to-reach-a-target/perfect-squares.md)
 * [Distinct Ways](dynamic-programming/distinct-ways/README.md)
