@@ -28,6 +28,9 @@
 * [Distinct Ways](dynamic-programming/distinct-ways/README.md)
   * [Climbing Stairs](dynamic-programming/distinct-ways/climbing-stairs.md)
   * [Unique Paths](dynamic-programming/distinct-ways/unique-paths.md)
+  * [Number of Dice Rolls with Target Sum](dynamic-programming/distinct-ways/number-of-dice-rolls-with-target-sum.md)
+* [Merging Intervals](dynamic-programming/merging-intervals-1/README.md)
+  * [Minimum Cost Tree From Leaf Values](dynamic-programming/merging-intervals-1/minimum-cost-tree-from-leaf-values.md)
 
 ---
 
@@ -41,7 +44,6 @@
 
 ## Graphs
 
-* [Untitled](graphs/untitled.md)
 * [Trees](graphs/trees-1/README.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
 
