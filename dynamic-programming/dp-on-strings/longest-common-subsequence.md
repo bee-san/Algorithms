@@ -28,18 +28,30 @@ That means for any 2 strings:
 
 We should keep track of the longest common substring for every possible combination.
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 Because we have empty strings, the values for each empty string is 0.  
 If we are filling in \(a, a\) we ask ourselves if we have string "a" and "a" and nothing else, what will be the longest subsequence?  
 The length of the common subsequence is 1 here. Note: When we read the top, we are reading it as `["a", "ab", "abc"]`.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 With only the letter "a" we can only make at most 1 subsequence with all of them.  
 Our third row now includes c as well as a for "ac".
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
+
+We compare "abc" with "ac". Since 2 letters are the same our value is 2.
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+We choose the maximum of these 2 values. 2 is the maximum so we use it here.
+
+Our value here is 3 + 1 which is 4.
+
+![](../../.gitbook/assets/image%20%288%29.png)
+
+And we are done!
 {% endtab %}
 {% endtabs %}
 

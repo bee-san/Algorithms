@@ -38,14 +38,14 @@ Occam's razor states:
 * We can move a coin from one side to the other for 0 cost.
 * To move a coin one over, it'll cost 1.
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 We want to match 2 things:
 
 * Less movements, so we want to try to move to a slot with more coins by default.
 * Movements from edge to edge are cheaper.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 In this instance, we want to move all the coins to one side. 
 
