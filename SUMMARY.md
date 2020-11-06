@@ -33,6 +33,7 @@
 * [Merging Intervals](dynamic-programming/merging-intervals-1/README.md)
   * [Minimum Cost Tree From Leaf Values](dynamic-programming/merging-intervals-1/minimum-cost-tree-from-leaf-values.md)
 * [DP on Strings](dynamic-programming/dp-on-strings/README.md)
+  * [Levenshtein Distance](dynamic-programming/dp-on-strings/levenshtein-distance.md)
   * [Longest Common Subsequence](dynamic-programming/dp-on-strings/longest-common-subsequence.md)
 
 ---
