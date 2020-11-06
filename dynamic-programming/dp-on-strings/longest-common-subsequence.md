@@ -14,6 +14,8 @@ If there is no common subsequence, return 0.
 {% endtab %}
 
 {% tab title="Answer" %}
+{% embed url="https://www.youtube.com/watch?v=ASoaQq66foQ" %}
+
 Let's look at the base case here.
 
 Per the question:
