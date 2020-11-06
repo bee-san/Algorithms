@@ -51,3 +51,7 @@
 * [Trees](graphs/trees-1/README.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
 
+## Binary Search
+
+* [Introduction](binary-search/introduction.md)
+
