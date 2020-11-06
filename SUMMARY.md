@@ -53,5 +53,7 @@
 
 ## Binary Search
 
-* [Introduction](binary-search/introduction.md)
+* [Introduction](binary-search/introduction/README.md)
+  * [First Bad Version](binary-search/introduction/first-bad-version.md)
+  * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
 
