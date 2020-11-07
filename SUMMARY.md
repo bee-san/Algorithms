@@ -42,6 +42,7 @@
   * [First Bad Version](binary-search/introduction/first-bad-version.md)
   * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
   * [Search Insert Position](binary-search/introduction/search-insert-position.md)
+* [Advanced](binary-search/advanced.md)
 
 ## Graphs
 
