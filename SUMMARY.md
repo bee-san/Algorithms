@@ -10,6 +10,8 @@
   * [Squares of a Sorted Array](strings/strings-1/squares-of-a-sorted-array.md)
   * [Unique Elements](strings/strings-1/unique-elements.md)
   * [Remove Duplicates from Sorted Array](strings/strings-1/remove-duplicates-from-sorted-array.md)
+* [Matrices](strings/matrices/README.md)
+  * [Matrix Search Sequel](strings/matrices/matrix-search-sequel.md)
 
 ## Trees
 
@@ -68,8 +70,4 @@
 * [Add Two Numbers](linked-lists/add-two-numbers.md)
 * [Reverse a Linked List](linked-lists/reverse-a-linked-list.md)
 * [Add Two Numbers 2](linked-lists/add-two-numbers-2.md)
-
----
-
-* [Matrix Search Sequel](matrix-search-sequel.md)
 
