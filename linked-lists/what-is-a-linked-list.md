@@ -5,11 +5,11 @@ Linked lists are a data structure. They consist of nodes which hold 2 values:
 * Data - The data that node stores
 * Next - The node next in the list
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 You can also have doubly linked lists, which remembers its previous node.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ## Advantages & Disadvantages
 
