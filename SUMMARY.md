@@ -36,6 +36,18 @@
   * [Levenshtein Distance](dynamic-programming/dp-on-strings/levenshtein-distance.md)
   * [Longest Common Subsequence](dynamic-programming/dp-on-strings/longest-common-subsequence.md)
 
+## Binary Search
+
+* [Introduction](binary-search/introduction/README.md)
+  * [First Bad Version](binary-search/introduction/first-bad-version.md)
+  * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
+  * [Search Insert Position](binary-search/introduction/search-insert-position.md)
+
+## Graphs
+
+* [Trees](graphs/trees-1/README.md)
+  * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
+
 ---
 
 * [Practice](practice.md)
@@ -45,15 +57,4 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
-
-## Graphs
-
-* [Trees](graphs/trees-1/README.md)
-  * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
-
-## Binary Search
-
-* [Introduction](binary-search/introduction/README.md)
-  * [First Bad Version](binary-search/introduction/first-bad-version.md)
-  * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
 
