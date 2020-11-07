@@ -12,6 +12,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 {% endtab %}
 
 {% tab title="Answer" %}
+{% embed url="https://www.youtube.com/watch?v=aM4Iv7eEr2o" %}
+
+
+
 Let's examine this problem.
 
 ![](../.gitbook/assets/image%20%2817%29.png)
@@ -56,14 +60,43 @@ while l1.head and l2.head and carry
 
 Then we add together the 2 values, but don't insert into our new linked list.
 
+We want to make sure our list nodes exist. As in, if we have 4 digits in l1 and 6 digits in l2 we need to make sure we can deal with these edge cases.
+
 ```python
-val = l1.val + l2.val
+if l1:
+    carry += l1.val
+    l1 = l1.next
 ```
 
-We calculate if it'll carry:
+And we do this for l2  too.
+
+And then the value for the next node is the last digit. So to calculate carry we divide by 10. To get the remaining value \(the last digit of the number after carry\) we use modulus.
 
 ```python
-if val % 10 == 0
+curr.next = ListNode(carry % 10)
+```
+
+Now we need to clean up. We move our curr pointer to next and calculate the carry for the next value.
+
+If our carry is below 10, because we are using floor division we will get 0. Which means we do not have to worry about this edge case, as our code will only add a carry if needed.
+
+Using modulus, we also don't have to worry about it being under 10. Since `6 % 10 = 6.`
+
+```python
+def addTwoNumbers(self, l1, l2):
+    dummy = cur = ListNode(0)
+    carry = 0
+    while l1 or l2 or carry:
+        if l1:
+            carry += l1.val
+            l1 = l1.next
+        if l2:
+            carry += l2.val
+            l2 = l2.next
+        cur.next = ListNode(carry%10)
+        cur = cur.next
+        carry //= 10
+    return dummy.next
 ```
 {% endtab %}
 {% endtabs %}
