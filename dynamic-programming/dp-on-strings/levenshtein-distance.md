@@ -27,7 +27,7 @@ rose -> ros (remove 'e')
 {% endtab %}
 
 {% tab title="Answer" %}
-
+For those having difficulty cracking dynamic programming solutions, I find it easiest to solve by first starting with a naive, but working recursive implementation. It's essential to do so, because dynamic programming is basically recursion with caching. With this workflow, deciphering dynamic programming problems becomes just a little more manageable for us normal people. :\)
 {% endtab %}
 {% endtabs %}
 
