@@ -47,6 +47,7 @@
 ## Graphs
 
 * [Trees](graphs/trees-1/README.md)
+  * [Untitled](graphs/trees-1/untitled.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
 
 ---
@@ -58,4 +59,9 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
+
+## Linked Lists
+
+* [What is a Linked List?](linked-lists/what-is-a-linked-list.md)
+* [Add Two Numbers](linked-lists/add-two-numbers.md)
 
