@@ -103,6 +103,9 @@ And now our code looks like:
 
 ```python
 def mySqrt(x: int) -> int:
+    if x <= 1:
+        return x
+    
     def condition(mid):
         return mid * mid <= x
     
