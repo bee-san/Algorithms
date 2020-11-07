@@ -49,6 +49,8 @@
 * [Trees](graphs/trees-1/README.md)
   * [Untitled](graphs/trees-1/untitled.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
+* [Binary Search Trees](graphs/binary-search-trees/README.md)
+  * [Invert a Binary Tree](graphs/binary-search-trees/invert-a-binary-tree.md)
 
 ---
 
@@ -64,4 +66,5 @@
 
 * [What is a Linked List?](linked-lists/what-is-a-linked-list.md)
 * [Add Two Numbers](linked-lists/add-two-numbers.md)
+* [Reverse a Linked List](linked-lists/reverse-a-linked-list.md)
 
