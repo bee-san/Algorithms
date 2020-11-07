@@ -69,3 +69,7 @@
 * [Reverse a Linked List](linked-lists/reverse-a-linked-list.md)
 * [Add Two Numbers 2](linked-lists/add-two-numbers-2.md)
 
+---
+
+* [Matrix Search Sequel](matrix-search-sequel.md)
+
