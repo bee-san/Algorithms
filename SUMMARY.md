@@ -44,7 +44,8 @@
   * [First Bad Version](binary-search/introduction/first-bad-version.md)
   * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
   * [Search Insert Position](binary-search/introduction/search-insert-position.md)
-* [Advanced](binary-search/advanced.md)
+* [Advanced](binary-search/advanced/README.md)
+  * [Capacity to Ship Packages within D Days](binary-search/advanced/capacity-to-ship-packages-within-d-days.md)
 
 ## Graphs
 
@@ -59,16 +60,16 @@
 
 * [Practice](practice.md)
 
-## Not Done Yet
-
-* [Uncompleted](not-done-yet/uncompleted.md)
-* [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
-* [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
-
 ## Linked Lists
 
 * [What is a Linked List?](linked-lists/what-is-a-linked-list.md)
 * [Add Two Numbers](linked-lists/add-two-numbers.md)
 * [Reverse a Linked List](linked-lists/reverse-a-linked-list.md)
 * [Add Two Numbers 2](linked-lists/add-two-numbers-2.md)
+
+## Not Done Yet
+
+* [Uncompleted](not-done-yet/uncompleted.md)
+* [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
+* [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
 
