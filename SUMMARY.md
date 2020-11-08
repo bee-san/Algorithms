@@ -45,6 +45,7 @@
   * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
   * [Search Insert Position](binary-search/introduction/search-insert-position.md)
 * [Advanced](binary-search/advanced/README.md)
+  * [Split array largest sum](binary-search/advanced/split-array-largest-sum.md)
   * [Capacity to Ship Packages within D Days](binary-search/advanced/capacity-to-ship-packages-within-d-days.md)
 
 ## Graphs
