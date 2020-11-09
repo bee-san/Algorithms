@@ -50,7 +50,3 @@ For other resources you should see:
 5. Companies use Leetcode
 6. Honestly if any other coding company came along and paid me to advertise their product I would it's just I used Leetcode. **Deciding on what the best platform to use is another form of procrastination.** I just picked the first one I saw and went with it.
 
-
-
-
-
