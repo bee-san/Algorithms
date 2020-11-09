@@ -12,6 +12,7 @@
   * [Check If N and Its Double Exist](strings/strings-1/check-if-n-and-its-double-exist.md)
   * [Merge Sorted Array](strings/strings-1/merge-sorted-array.md)
   * [Valid Mountain Array](strings/strings-1/valid-mountain-array.md)
+  * [Replace Elements with Greatest Element on Right Side](strings/strings-1/replace-elements-with-greatest-element-on-right-side.md)
   * [Remove Element](strings/strings-1/remove-element.md)
   * [Remove Duplicates from Sorted Array](strings/strings-1/remove-duplicates-from-sorted-array.md)
 * [Matrices](strings/matrices/README.md)
@@ -80,4 +81,8 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
+
+---
+
+* [Move Zeros](move-zeros.md)
 
