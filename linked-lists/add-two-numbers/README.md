@@ -18,7 +18,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Let's examine this problem.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 We'll build a 3rd linked list for our case.
 
@@ -28,7 +28,7 @@ $$
 2+5 = 7
 $$
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 Okay, now the next pair.
 
@@ -36,7 +36,7 @@ $$
 4 + 6 = 10
 $$
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 To calculate the carry, we do:
 
@@ -48,7 +48,7 @@ This means our nodes current value is 0, and our carry is 1.
 
 We then build the next node.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 If we carry on our last node, we should continue until we no longer have carry.
 
