@@ -4,6 +4,10 @@
 [https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)
 {% endhint %}
 
+## In-Place
+
+Something to note is that if we want to reduce space complexity, often we'll want to perform our algorithm on the input array instead of creating a new array. This is called in-place.
+
 {% tabs %}
 {% tab title="Answer" %}
 Given an array `nums`, write a function to move all `0`'s to the end of it while maintaining the relative order of the non-zero elements.
@@ -35,4 +39,6 @@ class Solution:
 We swap bubble the 0's up the array in-place.
 {% endtab %}
 {% endtabs %}
+
+
 

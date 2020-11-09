@@ -4,3 +4,5 @@ Strings are an abstracted datatype. They are arrays of characters. Strings are o
 
 Let's learn both about strings and arrays.
 
+
+
