@@ -67,7 +67,8 @@
 * [Add Two Numbers](linked-lists/add-two-numbers/README.md)
   * [Add Two Numbers 2](linked-lists/add-two-numbers/add-two-numbers-2.md)
 * [Reverse a Linked List](linked-lists/reverse-a-linked-list.md)
-* [Tortoise & Hare Algorithm](linked-lists/tortoise-and-hare-algorithm.md)
+* [Tortoise & Hare Algorithm](linked-lists/tortoise-and-hare-algorithm/README.md)
+  * [Middle of the Linked List](linked-lists/tortoise-and-hare-algorithm/middle-of-the-linked-list.md)
 
 ## Not Done Yet
 
