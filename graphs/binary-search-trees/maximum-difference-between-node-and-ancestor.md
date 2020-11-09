@@ -77,6 +77,26 @@ class Solution:
         helper(root, root.val, root.val)
         return self.result
 ```
+
+Or a cleaner solution thanks to [https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/274654/PythonJava-Recursion](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/discuss/274654/PythonJava-Recursion)
+
+```python
+class Solution(object):
+    def maxAncestorDiff(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        if not root: return 0
+        return self.helper(root, root.val, root.val)
+    
+    def helper(self, node, high, low):
+        if not node:
+            return high - low
+        high = max(high, node.val)
+        low = min(low, node.val)
+        return max(self.helper(node.left, high, low), self.helper(node.right,high,low))
+```
 {% endtab %}
 {% endtabs %}
 
