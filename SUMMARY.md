@@ -51,7 +51,9 @@
   * [Sqrt\(x\)](binary-search/introduction/sqrt-x.md)
   * [Search Insert Position](binary-search/introduction/search-insert-position.md)
 * [Advanced](binary-search/advanced/README.md)
+  * [KoKo Eating Banana](binary-search/advanced/koko-eating-banana.md)
   * [Capacity to Ship Packages within D Days](binary-search/advanced/capacity-to-ship-packages-within-d-days.md)
+  * [Minimum Number of Days to Make m Bouquets](binary-search/advanced/minimum-number-of-days-to-make-m-bouquets.md)
   * [Split array largest sum](binary-search/advanced/split-array-largest-sum.md)
 
 ## Graphs
@@ -86,5 +88,4 @@
 ---
 
 * [Sort Array by Parity](sort-array-by-parity.md)
-* [KoKo Eating Banana](koko-eating-banana.md)
 
