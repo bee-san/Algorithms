@@ -1,2 +1,0 @@
-# Sliding Window
-

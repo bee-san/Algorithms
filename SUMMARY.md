@@ -10,6 +10,10 @@
   * [Majority Vote](strings/counters/majority-vote.md)
   * [Removing Parentheses](strings/counters/removing-parentheses.md)
   * [Remove Duplicates from Sorted Array](strings/counters/remove-duplicates-from-sorted-array.md)
+* [Maths](strings/maths/README.md)
+  * [Pigeonhole](strings/maths/pigeonhole.md)
+  * [Check If N and Its Double Exist](strings/maths/check-if-n-and-its-double-exist.md)
+  * [Find Numbers with Even Number of Digits](strings/maths/find-numbers-with-even-number-of-digits.md)
 * [Two Pointers](strings/two-pointers/README.md)
   * [Remove Element](strings/two-pointers/remove-element.md)
   * [Replace Elements with Greatest Element on Right Side](strings/two-pointers/replace-elements-with-greatest-element-on-right-side.md)
@@ -21,9 +25,7 @@
   * [Max Consecutive Ones 3](strings/sliding-window/max-consecutive-ones-3.md)
 * [General Strings & Arrays](strings/strings-1/README.md)
   * [Move Zeros](strings/strings-1/move-zeros.md)
-  * [Find Numbers with Even Number of Digits](strings/strings-1/find-numbers-with-even-number-of-digits.md)
   * [Unique Elements](strings/strings-1/unique-elements.md)
-  * [Check If N and Its Double Exist](strings/strings-1/check-if-n-and-its-double-exist.md)
   * [Merge Sorted Array](strings/strings-1/merge-sorted-array.md)
 * [Matrices](strings/matrices/README.md)
   * [Matrix Search Sequel](strings/matrices/matrix-search-sequel.md)
@@ -99,8 +101,4 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
-
----
-
-* [Sliding Window](sliding-window.md)
 
