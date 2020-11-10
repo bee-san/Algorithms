@@ -12,6 +12,8 @@
   * [Unique Elements](strings/strings-1/unique-elements.md)
   * [Check If N and Its Double Exist](strings/strings-1/check-if-n-and-its-double-exist.md)
   * [Merge Sorted Array](strings/strings-1/merge-sorted-array.md)
+  * [Removing Parentheses](strings/strings-1/removing-parentheses.md)
+  * [Sort Array by Parity](strings/strings-1/sort-array-by-parity.md)
   * [Valid Mountain Array](strings/strings-1/valid-mountain-array.md)
   * [Replace Elements with Greatest Element on Right Side](strings/strings-1/replace-elements-with-greatest-element-on-right-side.md)
   * [Remove Element](strings/strings-1/remove-element.md)
@@ -55,6 +57,12 @@
   * [Capacity to Ship Packages within D Days](binary-search/advanced/capacity-to-ship-packages-within-d-days.md)
   * [Minimum Number of Days to Make m Bouquets](binary-search/advanced/minimum-number-of-days-to-make-m-bouquets.md)
   * [Split array largest sum](binary-search/advanced/split-array-largest-sum.md)
+  * [Minimum Number of Days to Make m Bouquets](binary-search/advanced/minimum-number-of-days-to-make-m-bouquets-1.md)
+  * [Koko Eating Bananas](binary-search/advanced/koko-eating-bananas.md)
+  * [Find K-th Smallest Pair Distance](binary-search/advanced/find-k-th-smallest-pair-distance.md)
+  * [Ugly Number 3](binary-search/advanced/ugly-number-3.md)
+  * [Find the Smallest Divisor Given a Threshold](binary-search/advanced/find-the-smallest-divisor-given-a-threshold.md)
+  * [Kth smallest number in multiplication table](binary-search/advanced/kth-smallest-number-in-multiplication-table.md)
 
 ## Graphs
 
@@ -84,8 +92,4 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
-
----
-
-* [Sort Array by Parity](sort-array-by-parity.md)
 
