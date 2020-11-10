@@ -4,20 +4,25 @@
 
 ## Strings
 
-* [Strings & Arrays](strings/strings-1/README.md)
+* [Counters](strings/counters/README.md)
+  * [Majority Vote](strings/counters/majority-vote.md)
+  * [Removing Parentheses](strings/counters/removing-parentheses.md)
+  * [Remove Duplicates from Sorted Array](strings/counters/remove-duplicates-from-sorted-array.md)
+* [Two Pointers](strings/two-pointers/README.md)
+  * [Remove Element](strings/two-pointers/remove-element.md)
+  * [Replace Elements with Greatest Element on Right Side](strings/two-pointers/replace-elements-with-greatest-element-on-right-side.md)
+  * [Valid Mountain Array](strings/two-pointers/valid-mountain-array.md)
+  * [Sort Array by Parity](strings/two-pointers/sort-array-by-parity.md)
+  * [Squares of a Sorted Array](strings/two-pointers/squares-of-a-sorted-array.md)
+  * [Max Consecutive Ones](strings/two-pointers/max-consecutive-ones.md)
+* [Sliding Window](strings/sliding-window/README.md)
+  * [Max Consecutive Ones 3](strings/sliding-window/max-consecutive-ones-3.md)
+* [General Strings & Arrays](strings/strings-1/README.md)
   * [Move Zeros](strings/strings-1/move-zeros.md)
-  * [Max Consecutive Ones](strings/strings-1/max-consecutive-ones.md)
   * [Find Numbers with Even Number of Digits](strings/strings-1/find-numbers-with-even-number-of-digits.md)
-  * [Squares of a Sorted Array](strings/strings-1/squares-of-a-sorted-array.md)
   * [Unique Elements](strings/strings-1/unique-elements.md)
   * [Check If N and Its Double Exist](strings/strings-1/check-if-n-and-its-double-exist.md)
   * [Merge Sorted Array](strings/strings-1/merge-sorted-array.md)
-  * [Removing Parentheses](strings/strings-1/removing-parentheses.md)
-  * [Sort Array by Parity](strings/strings-1/sort-array-by-parity.md)
-  * [Valid Mountain Array](strings/strings-1/valid-mountain-array.md)
-  * [Replace Elements with Greatest Element on Right Side](strings/strings-1/replace-elements-with-greatest-element-on-right-side.md)
-  * [Remove Element](strings/strings-1/remove-element.md)
-  * [Remove Duplicates from Sorted Array](strings/strings-1/remove-duplicates-from-sorted-array.md)
 * [Matrices](strings/matrices/README.md)
   * [Matrix Search Sequel](strings/matrices/matrix-search-sequel.md)
 
@@ -92,4 +97,8 @@
 * [Uncompleted](not-done-yet/uncompleted.md)
 * [Minimum Cost For Tickets](not-done-yet/minimum-cost-for-tickets.md)
 * [Minimum Falling Path Sum](not-done-yet/minimum-falling-path-sum.md)
+
+---
+
+* [Sliding Window](sliding-window.md)
 
