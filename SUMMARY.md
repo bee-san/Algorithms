@@ -86,4 +86,5 @@
 ---
 
 * [Sort Array by Parity](sort-array-by-parity.md)
+* [KoKo Eating Banana](koko-eating-banana.md)
 
