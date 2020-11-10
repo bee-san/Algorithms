@@ -4,6 +4,8 @@
 
 ## Strings
 
+* [Dutch Flags Problem](strings/dutch-flags-problem/README.md)
+  * [List Partitoning](strings/dutch-flags-problem/list-partitoning.md)
 * [Counters](strings/counters/README.md)
   * [Majority Vote](strings/counters/majority-vote.md)
   * [Removing Parentheses](strings/counters/removing-parentheses.md)
