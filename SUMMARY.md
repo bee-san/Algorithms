@@ -101,6 +101,10 @@
 * [Tortoise & Hare Algorithm](linked-lists/tortoise-and-hare-algorithm/README.md)
   * [Middle of the Linked List](linked-lists/tortoise-and-hare-algorithm/middle-of-the-linked-list.md)
 
+## Bitshifting
+
+* [Introduction](bitshifting/introduction.md)
+
 ## Not Done Yet
 
 * [Uncompleted](not-done-yet/uncompleted.md)
