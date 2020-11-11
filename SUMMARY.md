@@ -28,6 +28,7 @@
   * [Unique Elements](strings/strings-1/unique-elements.md)
   * [Merge Sorted Array](strings/strings-1/merge-sorted-array.md)
 * [Matrices](strings/matrices/README.md)
+  * [Valid Square](strings/matrices/valid-square.md)
   * [Matrix Search Sequel](strings/matrices/matrix-search-sequel.md)
 
 ## Trees
