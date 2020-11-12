@@ -11,6 +11,7 @@
   * [Removing Parentheses](strings/counters/removing-parentheses.md)
   * [Remove Duplicates from Sorted Array](strings/counters/remove-duplicates-from-sorted-array.md)
 * [Maths](strings/maths/README.md)
+  * [Lone Integer](strings/maths/lone-integer.md)
   * [Pigeonhole](strings/maths/pigeonhole.md)
   * [Check If N and Its Double Exist](strings/maths/check-if-n-and-its-double-exist.md)
   * [Find Numbers with Even Number of Digits](strings/maths/find-numbers-with-even-number-of-digits.md)
