@@ -32,7 +32,10 @@ That's what backtracking is.
 
 {% embed url="https://www.youtube.com/watch?v=Zq4upTEaQyM" %}
 
-  
+{% embed url="https://www.youtube.com/watch?v=DKCbsiDBN6c" %}
+
+
+
 The way I think of backtracking is as follows:
 
 1. Make a change
