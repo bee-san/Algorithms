@@ -39,7 +39,8 @@
 ## Recursion
 
 * [Introduction](recursion/introduction.md)
-* [Backtracking](recursion/backtracking.md)
+* [Backtracking](recursion/backtracking/README.md)
+  * [Permutations](recursion/backtracking/permutations.md)
 
 ## Dynamic Programming
 
