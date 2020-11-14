@@ -50,6 +50,20 @@ Now we push 0.
 Our array is now empty, that's our base case. We can return from this function call. But before we do that we want to push this into our answers array.
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
+
+Something important to note here is our use of the for loop. We use the for loop to insert all the elements from the original set in this way.
+
+![](../../.gitbook/assets/image%20%2843%29.png)
+
+Here our for loop goes to 1, and we remove 2 from our loop as that's the 2nd \[1\] element.
+
+![](../../.gitbook/assets/image%20%2845%29.png)
+
+Now we return from the function call as our array is empty and push our answer to our answers list.
+
+![](../../.gitbook/assets/image%20%2844%29.png)
+
+![](../../.gitbook/assets/image%20%2842%29.png)
 {% endtab %}
 {% endtabs %}
 
