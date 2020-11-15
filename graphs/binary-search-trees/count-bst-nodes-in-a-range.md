@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Question" %}
 Given a binary search tree `root`, and integers `lo` and `hi`, return the count of all nodes in `root` whose values are between `lo` and `hi` \(inclusive\).
 
 For example, with this tree and `lo = 5` and `hi = 10`, return 3 since only `7, 8, 9` are between `[5, 10]`.
@@ -37,7 +37,7 @@ hi = 7
 ```
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Answer" %}
  Our base case is if the node value is 0, we want to return nothing.
 
 Binary Search Trees have 2 properties that interest us:

@@ -87,6 +87,7 @@
   * [Untitled](graphs/trees-1/untitled.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
 * [Binary Search Trees](graphs/binary-search-trees/README.md)
+  * [Counting Maximal Value Roots in Binary Tree](graphs/binary-search-trees/counting-maximal-value-roots-in-binary-tree.md)
   * [Count BST nodes in a range](graphs/binary-search-trees/count-bst-nodes-in-a-range.md)
   * [Invert a Binary Tree](graphs/binary-search-trees/invert-a-binary-tree.md)
   * [Maximum Difference Between Node and Ancestor](graphs/binary-search-trees/maximum-difference-between-node-and-ancestor.md)
