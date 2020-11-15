@@ -63,9 +63,13 @@ class Solution:
 
 ```
 
+We use a post order DFS here. Post order means:
+
 
 
 Use a postorder dfs to calculate the maximum of every subtree. The answer increases by 1 whenever `node.val == subtree_max`.
 {% endtab %}
 {% endtabs %}
+
+## TODO write preorder s postorder vs in order
 
