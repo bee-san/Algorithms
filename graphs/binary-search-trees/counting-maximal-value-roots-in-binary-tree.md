@@ -65,9 +65,29 @@ class Solution:
 
 We use a post order DFS here. Post order means:
 
+* Left children
+* Visits right children
+* Visit current node
 
+We use post-order traversal to visit subtrees recursively. By visiting each subtree, we solve the problem at that subtree and eventually solve the full problem.
 
-Use a postorder dfs to calculate the maximum of every subtree. The answer increases by 1 whenever `node.val == subtree_max`.
+We need to do this because of this part of the question:
+
+> all of its descendants.
+
+Our algorithm will go down to these subtrees first:
+
+![](../../.gitbook/assets/image%20%2854%29.png)
+
+And then these:
+
+![](../../.gitbook/assets/image%20%2849%29.png)
+
+And finally this:
+
+![](../../.gitbook/assets/image%20%2850%29.png)
+
+The answer increments by 1 whenever `node.val == subtree_max`.
 {% endtab %}
 {% endtabs %}
 
