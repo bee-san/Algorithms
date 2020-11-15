@@ -38,15 +38,30 @@ hi = 7
 {% endtab %}
 
 {% tab title="Second Tab" %}
- Intuition
+ Our base case is if the node value is 0, we want to return nothing.
 
-If the current node is larger than the higher bound of the interval, every value in the interval will be to the left of the current node because they are smaller.
+Binary Search Trees have 2 properties that interest us:
 
-If the current node is smaller than the lower bound of the interval, every value in the interval will be to the right of the current node because they are larger.
+* The left node is smaller than the parent
+* The right node is larger than or equal to the parent
 
-Otherwise, the current value is in the interval and values can be on both sides of the current node.
+Therefore if our `hi` is less than the value, we go to the left. This is because:
 
-```text
+![](../../.gitbook/assets/image%20%2846%29.png)
+
+lo = 5, hi = 10.
+
+If our hi is less than our value, we want to go to the left. This is because all numbers in the right nodes path will always be larger than hi due to the nature of binary search trees.
+
+If our lo is higher than our value, we want to go to the right. Again, this is because all values in the left hand side are less than our lowest value and due to the nature of binary search trees we want to go to the right.
+
+Eventually, we only go down the paths that have nodes that can possibly be within the appropriate range.
+
+**Left is always smaller than current value, right is always equal to or higher than current value**.
+
+Otherwise, the current value is within the range and we we add together our 2 recursive calls along with adding + 1 to the counter.
+
+```python
 # class Tree:
 #     def __init__(self, val, left=None, right=None):
 #         self.val = val
