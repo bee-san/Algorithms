@@ -83,7 +83,12 @@
 
 ## Graphs
 
-* [Trees](graphs/trees-1/README.md)
+* [Binary Trees](graphs/binary-trees/README.md)
+  * [Binary Tree Preorder Traversal](graphs/binary-trees/binary-tree-preorder-traversal.md)
+  * [Binary Tree Postorder Traversal](graphs/binary-trees/binary-tree-postorder-traversal.md)
+  * [Binary Tree Level Order Traversal](graphs/binary-trees/binary-tree-level-order-traversal.md)
+  * [Binary Tree Inorder Traversal](graphs/binary-trees/binary-tree-inorder-traversal.md)
+* [n-ary Trees](graphs/trees-1/README.md)
   * [Untitled](graphs/trees-1/untitled.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)
 * [Binary Search Trees](graphs/binary-search-trees/README.md)
