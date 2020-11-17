@@ -84,11 +84,12 @@
 ## Graphs
 
 * [Binary Trees](graphs/binary-trees/README.md)
-  * [Symmetric Tree](graphs/binary-trees/symmetric-tree.md)
   * [Binary Tree Preorder Traversal](graphs/binary-trees/binary-tree-preorder-traversal.md)
   * [Binary Tree Postorder Traversal](graphs/binary-trees/binary-tree-postorder-traversal.md)
   * [Binary Tree Level Order Traversal](graphs/binary-trees/binary-tree-level-order-traversal.md)
   * [Binary Tree Inorder Traversal](graphs/binary-trees/binary-tree-inorder-traversal.md)
+  * [Symmetric Tree](graphs/binary-trees/symmetric-tree.md)
+  * [Untitled](graphs/binary-trees/untitled.md)
   * [Maximum Depth of Binary Tree](graphs/binary-trees/maximum-depth-of-binary-tree.md)
 * [n-ary Trees](graphs/trees-1/README.md)
   * [Untitled](graphs/trees-1/untitled.md)
