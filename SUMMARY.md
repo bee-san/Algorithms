@@ -93,6 +93,7 @@
   * [Populating Next Right Pointers in Each Node II](graphs/binary-trees/populating-next-right-pointers-in-each-node-ii.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](graphs/binary-trees/untitled.md)
   * [Maximum Depth of Binary Tree](graphs/binary-trees/maximum-depth-of-binary-tree.md)
+  * [Lowest Common Ancestor of a Binary Tree](graphs/binary-trees/lowest-common-ancestor-of-a-binary-tree.md)
 * [n-ary Trees](graphs/trees-1/README.md)
   * [Untitled](graphs/trees-1/untitled.md)
   * [Minimum Height Trees](graphs/trees-1/minimum-height-trees.md)

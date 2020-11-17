@@ -46,7 +46,7 @@ Then we need to call function recursively on the `left` subtree and `right` subt
 
  Then what we need to do is to find indices of left part and right part. First of all, evaluate `ind = dic[postorder[post_end-1]]`, where we create `dic = {elem: it for it, elem in enumerate(inorder)}` for fast access to elements. Now, look at the next two images:
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
  On the first one `1, 2, 3, 4` in circles are equal to `post_beg, post_beg + ind - in_beg, in_beg, ind`. Why? `1` should point to beginning of `left` in postorder, so it is equal to `post_beg`. `2` should point to one element after the end of `left`, so we need to know the length of `left`, we can find it from `inorder` array, it is `ind - in_beg`. So, finally, point `2` is equal to `post_beg + ind - in_beg`. Point `3` should point to start of `left` in `inorder` array, that is `in_beg` and point `4` should point to element after the end of `left` in `inorder` array, that is `ind`.
 
