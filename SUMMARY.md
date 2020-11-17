@@ -89,6 +89,8 @@
   * [Binary Tree Level Order Traversal](graphs/binary-trees/binary-tree-level-order-traversal.md)
   * [Binary Tree Inorder Traversal](graphs/binary-trees/binary-tree-inorder-traversal.md)
   * [Symmetric Tree](graphs/binary-trees/symmetric-tree.md)
+  * [Populating Next Right Pointers in Each Node](graphs/binary-trees/populating-next-right-pointers-in-each-node.md)
+  * [Populating Next Right Pointers in Each Node II](graphs/binary-trees/populating-next-right-pointers-in-each-node-ii.md)
   * [106. Construct Binary Tree from Inorder and Postorder Traversal](graphs/binary-trees/untitled.md)
   * [Maximum Depth of Binary Tree](graphs/binary-trees/maximum-depth-of-binary-tree.md)
 * [n-ary Trees](graphs/trees-1/README.md)
