@@ -4,6 +4,8 @@
 
 ## Strings
 
+* [Stacks](strings/stacks/README.md)
+  * [Balanced Brackets](strings/stacks/balanced-brackets.md)
 * [Dutch Flags Problem](strings/dutch-flags-problem/README.md)
   * [List Partitoning](strings/dutch-flags-problem/list-partitoning.md)
 * [Counters](strings/counters/README.md)
