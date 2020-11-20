@@ -68,7 +68,9 @@ If we simply keep counters here, then as soon as we encounter the closing square
 
 **Approach 1: Stacks**
 
-An interesting property about a valid parenthesis expression is that a sub-expression of a valid expression should also be a valid expression. \(Not every sub-expression\) e.g.![](https://leetcode.com/problems/valid-parentheses/Figures/20/20-Valid-Parentheses-Recursive-Property.png)
+An interesting property about a valid parenthesis expression is that a sub-expression of a valid expression should also be a valid expression. \(Not every sub-expression\) e.g.
+
+![](https://leetcode.com/problems/valid-parentheses/Figures/20/20-Valid-Parentheses-Recursive-Property.png)
 
 Also, if you look at the above structure carefully, the color coded cells mark the opening and closing pairs of parenthesis. The entire expression is valid, but sub portions of it are also valid in themselves. This lends a sort of a recursive structure to the problem. For e.g. Consider the expression enclosed within the two green parenthesis in the diagram above. The opening bracket at index `1` and the corresponding closing bracket at index `6`.
 

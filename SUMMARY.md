@@ -24,7 +24,8 @@
   * [Max Consecutive Ones](strings/two-pointers/max-consecutive-ones.md)
 * [Sliding Window](strings/sliding-window/README.md)
   * [Max Consecutive Ones 3](strings/sliding-window/max-consecutive-ones-3.md)
-* [Stacks](strings/stacks.md)
+* [Stacks](strings/stacks/README.md)
+  * [Balanced Brackets](strings/stacks/balanced-brackets.md)
 * [General Strings & Arrays](strings/strings-1/README.md)
   * [Move Zeros](strings/strings-1/move-zeros.md)
   * [Unique Elements](strings/strings-1/unique-elements.md)
@@ -32,7 +33,6 @@
 * [Matrices](strings/matrices/README.md)
   * [Valid Square](strings/matrices/valid-square.md)
   * [Matrix Search Sequel](strings/matrices/matrix-search-sequel.md)
-* [Balanced Brackets](strings/balanced-brackets.md)
 
 ## Trees
 
