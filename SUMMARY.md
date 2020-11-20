@@ -84,6 +84,7 @@
 ## Graphs
 
 * [Binary Trees](graphs/binary-trees/README.md)
+  * [Merging Binary Trees](graphs/binary-trees/merging-binary-trees.md)
   * [Binary Tree Preorder Traversal](graphs/binary-trees/binary-tree-preorder-traversal.md)
   * [Binary Tree Postorder Traversal](graphs/binary-trees/binary-tree-postorder-traversal.md)
   * [Binary Tree Level Order Traversal](graphs/binary-trees/binary-tree-level-order-traversal.md)
