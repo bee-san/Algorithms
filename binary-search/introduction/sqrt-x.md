@@ -23,7 +23,7 @@ We usually look for the minimal value that satisfies the condition, but in this 
 
 The maximal value satisfying `condition(k) is False` is equal to `condition(k) is True` minus 1. 
 
-This is shy we need to decide which value to return, left or left -1.
+This is why we need to decide which value to return, left or left -1.
 
 Let's look at this in more detail.
 
