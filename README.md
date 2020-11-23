@@ -2,6 +2,12 @@
 
 **You can read this here** [https://beesec.gitbook.io/algorithms/](https://beesec.gitbook.io/algorithms/)
 
+{% embed url="https://beesec.gitbook.io/algorithms/" %}
+
+
+
+GitHub repo is here: [https://github.com/bee-san/Algorithms](https://github.com/bee-san/Algorithms)
+
 Welcome to Bee's guide to datastructures and algorithms! This is based on [https://github.com/guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 
 **What you need to know**
