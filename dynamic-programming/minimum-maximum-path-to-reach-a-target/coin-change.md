@@ -57,6 +57,12 @@ Our runtime is O\(nm\) where n is our amount and m is the coins we are given. Sp
 **Small optimisation**  
 We can sort the array, and if our current coin is larger than the amount we break and return as there's no point in going through bigger and bigger coins.
 
+Also see my answer here:
+
+{% embed url="https://binarysearch.com/problems/Making-Change-Sequel/editorials/3021912" %}
+
+
+
 {% embed url="https://www.youtube.com/watch?v=1R0\_7HqNaW0" %}
 {% endtab %}
 {% endtabs %}
